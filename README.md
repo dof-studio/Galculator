@@ -1,2 +1,2 @@
 # Galculator
-Embedded Interpreted Control Language - Designed for DVP and Statisticality.
+Embedded Interpreted Control Language - Native for C++ - Designed for DVP and Statisticality.
